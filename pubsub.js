@@ -9,7 +9,7 @@
 // Copyright Alex Cox, but anyone can do whatever they want with this without 
 // caring about me.  
 // Anyone can even tell someone else that they have to pay a lot for it, 
-// because pay for worse things, like Omniture.
+// because people pay for worse things, like Omniture.
 
 (function($){
 
