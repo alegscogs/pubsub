@@ -1,3 +1,8 @@
+// PubSub
+// A simple javascript pub-sub model, with arguments in the style of jQuery events.
+//
+// http://github.com/alegscogs/pubsub
+//
 // Copyright Alex Cox, but anyone can do whatever they want with this without 
 // caring about me.  
 // Anyone can even tell someone else that they have to pay a lot for it, 
