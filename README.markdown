@@ -1,22 +1,23 @@
 
-
-
 A simple javascript pub-sub model, with arbitrary arguments in the style of javascript function arguments and jQuery events.
 
 If you find yourself binding and triggering the same event interaction on the document node, you can probably save yourself some overhead by skipping the DOM and using pub-sub.
 
-Usage:
+Usage
+-----
 
-$.subscribe('status', function(thing, state){
-  console.log(thing, state);
-});
+```javascript
+    $.subscribe('status', function(thing, state){
+      console.log(thing, state);
+    });
 
-var object = { name : null };
+    var object = { name : null };
 
-$.publish('validation', object, 'invalid');
-
+    $.publish('validation', object, 'invalid');
+```
 
 License
+-------
 
 Copyright Alex Cox, but anyone can do whatever they want with this without worrying about me.  
 Anyone can even tell someone else that they have to pay a lot for it, because I can only imagine that happening in The Enterprise, and people there pay for worse things, like Omniture. 
