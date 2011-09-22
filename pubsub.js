@@ -1,4 +1,7 @@
+// Copyright Alex Cox, but anyone can do whatever they want with this without caring about me.  
+// Anyone can even tell someone else that they have to pay a lot for it, because I can only imagine that happening in The Enterprise, and people there pay for worse things, like Omniture.
 //
+// Based on Peter Higgins (https://github.com/phiggins42/bloody-jquery-plugins) implementation, with changes to the style of arguments.
 
 (function($){
 
